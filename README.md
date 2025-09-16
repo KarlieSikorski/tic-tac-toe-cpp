@@ -47,6 +47,14 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
      g++ tictactoe.cpp -o tictactoe
 
 3. Run the game:
+- **On Linux/macOS**
+-    ```bash
+    ./tictactoe
+- **On Windows (PowerShell or CMD)**
+-    ```bash
+    .\tictactoe.exe
+- **Player vs AI (Hard – Minimax AI algorithm)**
+
 
     ##### On Linux/macOS:
    ```bash
@@ -54,7 +62,6 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
 
   ##### On Windows (PowerShell or CMD):
     ```bash
-    
     .\tictactoe.exe
 
 
