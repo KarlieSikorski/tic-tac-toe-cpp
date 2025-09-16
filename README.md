@@ -48,25 +48,14 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
 
 3. Run the game:
    
-  On Linux/macOS:
+ #### On Linux/macOS:
    ```bash
     ./tictactoe
 
 
-  On Windows (PowerShell or CMD):
+ #### On Windows (PowerShell or CMD):
     ```bash
     .\tictactoe.exe
 
 
-
-
-
----
-
-✨ A couple of polish tips for your repo:
-- Add a screenshot or GIF of gameplay if you want to impress.
-- Keep `tictactoe.cpp`, `README.md`, and a simple `LICENSE` (MIT is fine).
-- Commit with clear messages like *“Initial Tic-Tac-Toe game with Minimax AI”*.  
-
-Want me to also draft a **professional GitHub project description and tags** you can paste when creating the repo?
 
