@@ -16,7 +16,7 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
 - Board labeled with rows and columns for intuitive input (1–3).
 - Three game modes:
   1. **Player vs Player**
-  2. **Player vs AI (Easy)** – computer makes random moves.
+  2. **Player vs Computer (Easy)** – computer makes random moves.
   3. **Player vs AI (Hard)** – computer uses Minimax to play optimally.
 - Input validation (prevents overwriting cells or out-of-range input).
 - Replay option after each game.
