@@ -53,3 +53,41 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
 - **On Windows (PowerShell or CMD)**
     ```bash
     .\tictactoe.exe
+
+
+
+---
+
+## Technical Details
+
+- **Programming Language:** C++  
+- **AI Algorithm:** Minimax with simple tie-breaking and depth scoring  
+- **Difficulty Modes:** Random (easy) vs. Minimax (hard)
+
+This project demonstrates:
+
+- Use of arrays for the game board  
+- Input validation and error handling  
+- Recursive algorithms (Minimax)  
+- Clear separation of functions for readability and maintainability  
+
+---
+
+## Future Improvements
+
+- Add Alpha-Beta Pruning for Minimax optimization  
+- Implement a GUI version (e.g., with SFML or SDL)  
+- Add unit tests for board evaluation and AI functions  
+
+---
+
+## License
+
+This project is open source under the MIT License.
+
+---
+
+## Author
+
+Developed by **Karlie Sikorski**  
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/k-sikorski/]) or explore my other projects on GitHub
