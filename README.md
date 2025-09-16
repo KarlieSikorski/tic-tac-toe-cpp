@@ -44,7 +44,7 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
    
 2. Compile the program:
      ```bash
-     g++ tictactoe.cpp -o tictactoe
+     g++ main.cpp -o tic_tac_toe
 
 3. Run the game:
 - **On Linux/macOS**
@@ -52,7 +52,8 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
     ./tictactoe
 - **On Windows (PowerShell or CMD)**
     ```bash
-    .\tictactoe.exe
+    tic_tac_toe.exe
+
 
 ---
 
