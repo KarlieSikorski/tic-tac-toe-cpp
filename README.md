@@ -37,16 +37,14 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
 
 ### Compile and Run
 
-1. Clone the repository or download the source:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/tic-tac-toe-cpp.git
-   cd tic-tac-toe-cpp
-   
-2. Compile the program:
+Once you’re inside the project folder:
+
+
+1. Compile the program:
      ```bash
      g++ main.cpp -o tic_tac_toe
 
-3. Run the game:
+2. Run the game:
 - **On Linux/macOS**
     ```bash
     ./tictactoe
