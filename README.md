@@ -55,6 +55,16 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
     .\tictactoe.exe
 
 
+=== Tic-Tac-Toe ===
+Input moves using row and column numbers (1 to 3).
+You are 'X', AI is 'O'.
+
+Choose mode:
+ 1) Player vs Player
+ 2) Player vs AI (Easy - random)
+ 3) Player vs AI (Hard - Minimax)
+ 4) Exit
+Enter choice: 3
 
 ---
 
