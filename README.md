@@ -50,7 +50,7 @@ Once you’re inside the project folder:
     ./tictactoe
 - **On Windows (PowerShell or CMD)**
     ```bash
-    tic_tac_toe.exe
+    .\tic_tac_toe.exe
 
 
 ---
