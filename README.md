@@ -3,7 +3,7 @@
 A simple **Tic-Tac-Toe game** written in C++ with support for:
 
 - **Player vs Player**
-- **Player vs AI (Easy – Random moves)**
+- **Player vs Computer (Easy – Random moves)**
 - **Player vs AI (Hard – Minimax AI algorithm)**
 
 This project demonstrates fundamental C++ skills such as arrays, loops, conditionals, functions, and recursion, while also introducing **AI concepts** like the **Minimax adversarial search algorithm**.
