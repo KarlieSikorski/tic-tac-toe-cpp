@@ -54,6 +54,9 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
     ```bash
     .\tictactoe.exe
 
+---
+
+## Example Gameplay
 
 === Tic-Tac-Toe ===
 Input moves using row and column numbers (1 to 3).
