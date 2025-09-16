@@ -48,7 +48,7 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
 
 3. Run the game:
 
-   ##### On Linux/macOS:
+  ##### On Linux/macOS:
    ```bash
     ./tictactoe
 
