@@ -59,6 +59,7 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
 ## Example Gameplay
 
 === Tic-Tac-Toe ===
+
 Input moves using row and column numbers (1 to 3).
 You are 'X', AI is 'O'.
 
