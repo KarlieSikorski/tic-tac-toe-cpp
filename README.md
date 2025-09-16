@@ -70,21 +70,6 @@ Choose mode:
  4) Exit
 Enter choice: 3
 
-
-### Board Layout with Labels
-
-    1   2   3
-  -------------
-1 |   |   |   |
-  -------------
-2 |   |   |   |
-  -------------
-3 |   |   |   |
-  -------------
-
-#### To place an X in the top-right corner, type:
-**1 3**
-
 ---
 
 ## Technical Details
