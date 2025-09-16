@@ -41,3 +41,13 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
    ```bash
    git clone https://github.com/YOUR-USERNAME/tic-tac-toe-cpp.git
    cd tic-tac-toe-cpp
+   
+2. Compile the program:
+     ```bash
+     g++ tictactoe.cpp -o tictactoe
+
+3. Run the game:
+  On Linux/macOS:
+    ./tictactoe
+  On Windows (PowerShell or CMD):
+    .\tictactoe.exe
