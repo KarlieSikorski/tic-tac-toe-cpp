@@ -69,6 +69,10 @@ Choose mode:
  4) Exit
 Enter choice: 3
 
+
+![Tic-Tac-Toe Gameplay](assets/gameplay.gif)
+
+
 ---
 
 ## Technical Details
