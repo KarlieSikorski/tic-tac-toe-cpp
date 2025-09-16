@@ -69,6 +69,8 @@ Choose mode:
  4) Exit
 Enter choice: 3
 
+## Example Gameplay
+
 ![Tic-Tac-Toe Gameplay](assets/gameplay.gif)
 
 ---
