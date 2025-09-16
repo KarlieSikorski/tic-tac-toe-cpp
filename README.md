@@ -84,4 +84,4 @@ This project demonstrates:
 ## Author
 
 Developed by **Karlie Sikorski**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/k-sikorski/) and through my [Website](https://karliesikorski.wixsite.com/portfolio) or explore my other projects on GitHub
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/k-sikorski/) and through my [website](https://karliesikorski.wixsite.com/portfolio) or explore my other projects on GitHub!
