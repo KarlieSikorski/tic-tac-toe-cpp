@@ -52,7 +52,7 @@ This project demonstrates fundamental C++ skills such as arrays, loops, conditio
    ```bash
     ./tictactoe
 
-   .##### On Windows (PowerShell or CMD):
+  ##### On Windows (PowerShell or CMD):
     ```bash
     .\tictactoe.exe
 
